@@ -1,6 +1,6 @@
 # bioblocks
 
-## Project setup
+## Vue project setup
 ```
 npm install
 ```
@@ -27,3 +27,13 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Express project setup
+```
+npm install
+```
+
+### Run the server with hot-reloads
+```
+nodemon server
+```
